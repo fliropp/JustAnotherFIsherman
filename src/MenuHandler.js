@@ -8,7 +8,7 @@ render() {
 	return(
 		<View style={styles.menu_container}>
 			<Image style={styles.copyright} source={copyright}/>
-			<Text style={styles.menu_text}> Just Another Fisherman hipster dufus brigade </Text>
+			<Text style={styles.menu_text}> Just Another Fisherman </Text>
    		</View>);
 }
 
